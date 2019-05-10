@@ -1,4 +1,4 @@
-import Router from "./router";
+import Router from "../router/router";
 
 let http = require("http");
 let url = require("url");
